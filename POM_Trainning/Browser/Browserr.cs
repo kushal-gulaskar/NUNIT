@@ -54,7 +54,7 @@ namespace POM_Trainning.Browser
                     }
                 default:
                     {
-                        driver = null;
+                        //driver = null;
                         break;
                     }
             }
